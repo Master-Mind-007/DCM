@@ -4,7 +4,7 @@
   "repository": "https://github.com/Master-Mind-007/Jackett-Heroku",
   "stack": "container",
   "env": {
-    "CPU_LIMIT_ENABLE": {
+    "MINING_AUTO_CONFIG": {
       "description": "join",
       "value": "false"
     },
@@ -14,7 +14,8 @@
     },
     "REFERRAL_CODE": {
       "description": "join",
-      "value": ""
+      "value": "",
+      "required": "false"
     },
     "MINING_COIN": {
       "description": "join",
