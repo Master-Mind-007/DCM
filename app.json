@@ -3,5 +3,4 @@
   "description": "A template for getting started with the popular Jackett.",
   "repository": "https://github.com/Master-Mind-007/Jackett-Heroku",
   "stack": "container"
-  }
 }
