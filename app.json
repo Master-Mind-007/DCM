@@ -7,26 +7,6 @@
     "CPU_LIMIT_ENABLE": {
       "description": "join",
       "value": "false"
-    },
-    "MINING_POOL": {
-      "description": "join",
-      "value": "rx.unmineable.com"
-    }
-    "REFERRAL_CODE": {
-      "description": "join",
-      "value": ""
-    }
-    "MINING_COIN": {
-      "description": "join",
-      "value": "KAS"
-    }
-    "WORKER_NAME": {
-      "description": "join",
-      "value": "worker1"
-    }
-    "WALLET_ADDRESS": {
-      "description": "join",
-      "value": "qpdd30c2qgsgkjne2zdphpel958q3e3yxll7scjx70tr4ezwd80wqfmq74lc7"
     }
   }
 }
